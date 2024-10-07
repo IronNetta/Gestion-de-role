@@ -1,0 +1,5 @@
+crée la db manuellement via phpmyadmin
+
+après envoie du mail (au moment ou tu crée ton compte) il faut l'activer manuellement en passant le "est_valide" sur 1 dans la db (normalement un mail s'envoie mais google n'accepte plus sendmail de xampp)
+
+je regarde pour le deployer quand j'ai le temps.
