@@ -20,6 +20,8 @@
 
 Cette API est construite en PHP en suivant l'architecture **MVC** (Modèle-Vue-Contrôleur). Elle permet la gestion des utilisateurs, des droits administratifs et inclut des fonctionnalités de connexion, création de compte, et gestion des profils. Cette structure modulaire assure une séparation claire des responsabilités tout en offrant une gestion sécurisée des sessions, des rôles et des erreurs.
 
+<img src="GestionMVC.png" alt="Description de l'image"/>
+
 ## Installation
 
 1. **Prérequis :**
